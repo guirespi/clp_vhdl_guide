@@ -1,0 +1,25 @@
+C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg.vhd {1 {vcom -work work -2002 -explicit C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shift_reg
+-- Compiling architecture shift_reg_arq of shift_reg
+
+} {} {}} C:/Users/user/CESE/clp/clp_vhdl_guide/05_ffd/src/ffd.vhd {1 {vcom -work work -2002 -explicit C:/Users/user/CESE/clp/clp_vhdl_guide/05_ffd/src/ffd.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}} C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg_tb.vhd {1 {vcom -work work -2002 -explicit C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shift_reg_tb
+-- Compiling architecture shift_reg_arq_tb of shift_reg_tb
+
+} {} {}}

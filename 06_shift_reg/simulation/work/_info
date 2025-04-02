@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Effd
+Z0 w1742278274
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\user\CESE\clp\clp_vhdl_guide\06_shift_reg\simulation
+Z4 8C:/Users/user/CESE/clp/clp_vhdl_guide/05_ffd/src/ffd.vhd
+Z5 FC:/Users/user/CESE/clp/clp_vhdl_guide/05_ffd/src/ffd.vhd
+l0
+L6
+VHnnJObk4>ONIFcN^cIgT42
+!s100 Ya45H:W4Lc<F<Xocknh9e1
+Z6 OV;C;10.1d;51
+32
+!i10b 1
+Z7 !s108 1743557847.080000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/05_ffd/src/ffd.vhd|
+Z9 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/05_ffd/src/ffd.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Affd_arq
+R1
+R2
+Z12 DEx4 work 3 ffd 0 22 HnnJObk4>ONIFcN^cIgT42
+l19
+L17
+Z13 VkAB?K44dRg]e6KBn[lA?`3
+Z14 !s100 S>RlOoP^joSZjjmjSWd9=3
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
+Eshift_reg
+Z15 w1742278310
+R1
+R2
+R3
+Z16 8C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg.vhd
+Z17 FC:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg.vhd
+l0
+L6
+V7>hHU5m<<f@I@Q>Sh=6>=3
+R6
+32
+Z18 !s108 1743557846.897000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg.vhd|
+Z20 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg.vhd|
+R10
+R11
+!s100 =ggXRQmACX?G2coDYG@8>0
+!i10b 1
+Ashift_reg_arq
+R1
+R2
+DEx4 work 9 shift_reg 0 22 7>hHU5m<<f@I@Q>Sh=6>=3
+l31
+L17
+V<AN8Hdi8gekmE<jXl1Yhh1
+R6
+32
+R18
+R19
+R20
+R10
+R11
+!s100 =X4a3`>]>7;T?dYTB>8oN3
+!i10b 1
+Eshift_reg_tb
+Z21 w1742278321
+R1
+R2
+R3
+Z22 8C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg_tb.vhd
+Z23 FC:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg_tb.vhd
+l0
+L6
+V2PF9Jn8SkL>m38m6XLzk21
+R6
+32
+Z24 !s108 1743557846.990000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg_tb.vhd|
+Z26 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/06_shift_reg/src/shift_reg_tb.vhd|
+R10
+R11
+!s100 IRHE]jR]EW8QE;_PAz0oI2
+!i10b 1
+Ashift_reg_arq_tb
+R1
+R2
+DEx4 work 12 shift_reg_tb 0 22 2PF9Jn8SkL>m38m6XLzk21
+l30
+L10
+VOohg3WThkJWHU4O<]V:b@1
+!s100 N<bj4>iGm3DhdT`i];R2U2
+R6
+32
+R24
+R25
+R26
+R10
+R11
+!i10b 1
