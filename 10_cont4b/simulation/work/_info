@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\user\CESE\clp\clp_vhdl_guide\08_barrel_shifter\simulation
+Econt4b
+Z0 w1743573641
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\user\CESE\clp\clp_vhdl_guide\10_cont4b\simulation
+Z4 8C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/src/cont4b.vhd
+Z5 FC:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/src/cont4b.vhd
+l0
+L6
+V_0VRQFeM>T=X7OTSAZagR2
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1743574505.554000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/src/cont4b.vhd|
+Z9 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/src/cont4b.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 QJVTF7:Zj<EL7Fh:m_4Z23
+!i10b 1
+Acont4b_arq
+R1
+R2
+DEx4 work 6 cont4b 0 22 _0VRQFeM>T=X7OTSAZagR2
+l33
+L16
+Vm]e@kKMHeAGme_oNEk9eW3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 N51lj>flQF;L_@Y4X4W8m3
+!i10b 1
+Econt4b_tb
+Z12 w1743574482
+R1
+R2
+R3
+Z13 8C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/src/cont4b_tb.vhd
+Z14 FC:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/src/cont4b_tb.vhd
+l0
+L6
+VZ8^]DX8B4`S5=?E6hnH1h2
+R6
+32
+Z15 !s108 1743574505.657000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/src/cont4b_tb.vhd|
+Z17 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/src/cont4b_tb.vhd|
+R10
+R11
+!s100 BhDok>4g[kb42k<aK29Gz2
+!i10b 1
+Acont4b_tb_arq
+R1
+R2
+DEx4 work 9 cont4b_tb 0 22 Z8^]DX8B4`S5=?E6hnH1h2
+l27
+L10
+VLXZj^>mL@Fm?J<N>K<6R?1
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 :ie4a`MI5MV>R4m9nTSTI1
+!i10b 1
+Effd
+Z18 w1742278274
+R1
+R2
+R3
+Z19 8C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/simulation/ffd.vhd
+Z20 FC:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/simulation/ffd.vhd
+l0
+L6
+VHnnJObk4>ONIFcN^cIgT42
+!s100 Ya45H:W4Lc<F<Xocknh9e1
+R6
+32
+!i10b 1
+Z21 !s108 1743574505.760000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/simulation/ffd.vhd|
+Z23 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/10_cont4b/simulation/ffd.vhd|
+R10
+R11
+Affd_arq
+R1
+R2
+Z24 DEx4 work 3 ffd 0 22 HnnJObk4>ONIFcN^cIgT42
+l19
+L17
+Z25 VkAB?K44dRg]e6KBn[lA?`3
+Z26 !s100 S>RlOoP^joSZjjmjSWd9=3
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11
