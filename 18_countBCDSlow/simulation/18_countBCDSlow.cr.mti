@@ -1,0 +1,28 @@
+C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow.vhd {1 {vcom -work work -2002 -explicit C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity countBCDSlow
+-- Compiling architecture countBCDSlow_arq of countBCDSlow
+
+} {} {}} C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/countBCD.vhd {1 {vcom -work work -2002 -explicit C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/countBCD.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity countBCD
+-- Compiling architecture countBCD_arq of countBCD
+
+} {} {}} C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/genEna.vhd {1 {vcom -work work -2002 -explicit C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/genEna.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity genEna
+-- Compiling architecture genEna_arch of genEna
+
+} {} {}}

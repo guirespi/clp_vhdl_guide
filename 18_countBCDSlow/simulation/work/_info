@@ -1,0 +1,153 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\user\CESE\clp\clp_vhdl_guide\17_genEna\simulation
+Ecountbcd
+Z0 w1744085809
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\user\CESE\clp\clp_vhdl_guide\18_countBCDSlow\simulation
+Z5 8C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/countBCD.vhd
+Z6 FC:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/countBCD.vhd
+l0
+L7
+V2Z3YS8TS3MPOM_9L3U]QI1
+!s100 2469;e_aLT8K<d>Q[KSPB3
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1744089723.572000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/countBCD.vhd|
+Z10 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/countBCD.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Acountbcd_arq
+R1
+R2
+R3
+Z13 DEx4 work 8 countbcd 0 22 2Z3YS8TS3MPOM_9L3U]QI1
+l27
+L22
+Z14 V1]ezGjL]>KF7YAZefL[hL2
+Z15 !s100 _K^e`]?23k;g60WTS3M193
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Ecountbcdslow
+Z16 w1744089493
+R1
+R2
+R3
+R4
+Z17 8C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow.vhd
+Z18 FC:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow.vhd
+l0
+L7
+VMloj7>=g1ZkBWYe?3=^Hk1
+R7
+32
+Z19 !s108 1744089723.304000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow.vhd|
+Z21 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow.vhd|
+R11
+R12
+!s100 g`^c]OH2DUbM`3zn7GCBG2
+!i10b 1
+Acountbcdslow_arq
+R1
+R2
+R3
+DEx4 work 12 countbcdslow 0 22 Mloj7>=g1ZkBWYe?3=^Hk1
+l51
+L22
+V_g]nfaQi>;4lk<jIW5ej`1
+R7
+32
+R19
+R20
+R21
+R11
+R12
+!s100 _aXTzm?KogL_h?1889SkM0
+!i10b 1
+Ecountbcdslow_tb
+Z22 w1744089720
+R1
+R2
+R3
+R4
+Z23 8C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow_tb.vhd
+Z24 FC:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow_tb.vhd
+l0
+L8
+V^2iiD8I782ng7`5nL]:OM0
+R7
+32
+Z25 !s108 1744089723.400000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow_tb.vhd|
+Z27 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/src/countBCDSlow_tb.vhd|
+R11
+R12
+!s100 dcg1J?[dBczIk]082TLX^3
+!i10b 1
+Acountbcdslow_arq
+R1
+R2
+R3
+DEx4 work 15 countbcdslow_tb 0 22 ^2iiD8I782ng7`5nL]:OM0
+l33
+L12
+VH2coXNI[lMFnNFlUlXUb21
+R7
+32
+R25
+R26
+R27
+R11
+R12
+!s100 =oeP[G^G6J9hoZ@3hzUm:1
+!i10b 1
+Egenena
+Z28 w1744086933
+R1
+R2
+R3
+R4
+Z29 8C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/genEna.vhd
+Z30 FC:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/genEna.vhd
+l0
+L6
+V5?M<M0;LJzGCZAPP9_<AV3
+R7
+32
+Z31 !s108 1744089723.488000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/genEna.vhd|
+Z33 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/18_countBCDSlow/simulation/genEna.vhd|
+R11
+R12
+!s100 5R[oz[UC<JEOfD24V<IZC3
+!i10b 1
+Agenena_arch
+R1
+R2
+R3
+DEx4 work 6 genena 0 22 5?M<M0;LJzGCZAPP9_<AV3
+l21
+L18
+VNHkhZ5ngmV3k[[`LXD1^22
+!s100 lc6WD8z:c3eC8DeDi=Fik2
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!i10b 1
