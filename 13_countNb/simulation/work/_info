@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\user\CESE\clp\clp_vhdl_guide\12_countNb\simulation
+Ecountnb
+Z0 w1744082700
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\user\CESE\clp\clp_vhdl_guide\13_countNb\simulation
+Z5 8C:/Users/user/CESE/clp/clp_vhdl_guide/13_countNb/src/countNb.vhd
+Z6 FC:/Users/user/CESE/clp/clp_vhdl_guide/13_countNb/src/countNb.vhd
+l0
+L7
+VUcIa?kYS[FYh`AWAadn1]1
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1744082765.850000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/13_countNb/src/countNb.vhd|
+Z10 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/13_countNb/src/countNb.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 0KCzMHh9eQ]OOcoO@JY@Q3
+!i10b 1
+Acountnb_arq
+R1
+R2
+R3
+DEx4 work 7 countnb 0 22 UcIa?kYS[FYh`AWAadn1]1
+l24
+L20
+V3aPN@WI[bmASaT:WE9WG91
+!s100 <EJD?Sn^jTWdnIf4:ZBPn3
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Ecountnb_tb
+Z13 w1744082755
+R1
+R2
+R3
+R4
+Z14 8C:/Users/user/CESE/clp/clp_vhdl_guide/13_countNb/src/countNb_tb.vhd
+Z15 FC:/Users/user/CESE/clp/clp_vhdl_guide/13_countNb/src/countNb_tb.vhd
+l0
+L8
+VJdCX^XNPN0eDYI4j5D<H41
+!s100 `?9FSIj?7FoPX=VHO67]i0
+R7
+32
+!i10b 1
+Z16 !s108 1744082765.946000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/CESE/clp/clp_vhdl_guide/13_countNb/src/countNb_tb.vhd|
+Z18 !s107 C:/Users/user/CESE/clp/clp_vhdl_guide/13_countNb/src/countNb_tb.vhd|
+R11
+R12
+Acountnb_tb_arq
+R1
+R2
+R3
+Z19 DEx4 work 10 countnb_tb 0 22 JdCX^XNPN0eDYI4j5D<H41
+l33
+L12
+Z20 Vl7<Q8ln[ImC1E>K:jlaTL2
+Z21 !s100 XCgC=ZbA0JmjI>Z48McOS2
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12
